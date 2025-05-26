@@ -13,7 +13,7 @@
 ```
 ## Contacto
 ```bash
-# 1. Consulta sobre informes.
+# 1. Pedir informes.
 ```
 # Nota
 Para este proyecto, se desarrollo con **LARAVEL**, cuyo código se encuentra en un repositorio privado.
