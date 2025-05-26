@@ -7,5 +7,5 @@ Pagina para solicitudes y calculo de un lote en venta por cuota.Las solicitudes 
 
 # Demo
 <p align="left"> 
- <img src="/Demo.gif"/>
+ <img src="/demo.gif"/>
 </p>
