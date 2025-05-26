@@ -6,9 +6,11 @@
 ```bash
 # 1. Presentación de los lotes.
 # 2.Cálculo sobre lotes disponibles.
-## Sobre nosotros
+```
+## Sobre nosotros.
 ```bash
 # 1. Informacion acerca de la empresa.
+```
 ## Contacto
 ```bash
 # 1. Consulta sobre informes.
