@@ -2,8 +2,19 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Pagina Web La planici
-Pagina para solicitudes y calculo de un lote en venta por cuota.Las solicitudes de los formularios son enviados al correo del usuario.
+## Inicio
+```bash
+# 1. Presentación de los lotes.
+# 2.Cálculo sobre lotes disponibles.
+## Sobre nosotros
+```bash
+# 1. Informacion acerca de la empresa.
+## Contacto
+```bash
+# 1. Consulta sobre informes.
+```
+# Nota
+Para este proyecto, se desarrollo con **LARAVEL**, cuyo código se encuentra en un repositorio privado.
 
 # Demo
 <p align="left"> 
